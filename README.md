@@ -36,3 +36,5 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+![myimage-alt-tag](https://cdn.discordapp.com/attachments/1029183056860426342/1182514826774335518/login.png)
